@@ -32,10 +32,3 @@ https://github.com/anjalikhushi/AspireNex/assets/82653640/b85c34f1-2906-42c9-bcc
 ##### 3. Random Forest: We train a random forest classifier and print the classification report.
 ##### 4. Confusion Matrices: We print the confusion matrices for each model to get a detailed view of the model performance.
 ##### 5. Make Predictions: Finally, we can use the trained models to make predictions on new data.
-
-
-### 5. Evaluate the Model
-We'll evaluate the model's performance using metrics like accuracy, precision, recall, and F1-score.
-
-### 6. Make Predictions
-Finally, we'll use the trained model to classify new SMS messages.
