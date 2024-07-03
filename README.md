@@ -1,4 +1,5 @@
-# Below are the explanation of 2 Tasks Completed-
+# Below is the explanation of Task Completed-
+
 A video including both the assignments to showcase my work:
 
 
@@ -6,7 +7,11 @@ A video including both the assignments to showcase my work:
 
 
 
-https://github.com/anjalikhushi/AspireNex/assets/82653640/e967c36e-6a8d-4215-845d-3930ddea9148
+
+
+https://github.com/anjalikhushi/AspireNex/assets/82653640/b85c34f1-2906-42c9-bccd-62289f1461a6
+
+
 
 
 
@@ -27,32 +32,7 @@ https://github.com/anjalikhushi/AspireNex/assets/82653640/e967c36e-6a8d-4215-845
 ##### 3. Random Forest: We train a random forest classifier and print the classification report.
 ##### 4. Confusion Matrices: We print the confusion matrices for each model to get a detailed view of the model performance.
 ##### 5. Make Predictions: Finally, we can use the trained models to make predictions on new data.
-## TASK 4 - SPAM SMS DETECTION
-#### To build an AI model that can classify SMS messages as spam or legitimate, we'll follow these steps:
 
-###### 1. Load and Explore the Data
-###### 2. Preprocess the Data
-###### 3. Convert Text to Numerical Features
-###### 4. Train a Classifier
-###### 5. Evaluate the Model
-###### 6. Make Predictions
-##### Let's get started.
-
-### 1. Load and Explore the Data
-We'll load the dataset and take a look at the first few rows to understand its structure.
-
-### 2. Preprocess the Data
-Preprocessing steps include:
-
-##### a. Removing punctuation and special characters
-##### b. Converting text to lowercase
-##### c. Removing stop words (common words that don't add much meaning)
-
-### 3. Convert Text to Numerical Features
-We can use either TF-IDF (Term Frequency-Inverse Document Frequency) or word embeddings to convert text data into numerical features.
-
-### 4. Train a Classifier
-We can train classifiers like Naive Bayes, Logistic Regression, or Support Vector Machines.
 
 ### 5. Evaluate the Model
 We'll evaluate the model's performance using metrics like accuracy, precision, recall, and F1-score.
